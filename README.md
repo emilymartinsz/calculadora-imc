@@ -41,7 +41,7 @@ Resultado: 24,69
 
 Você pode testar a aplicação pelo GitHub Pages:
 
-https://emartinsz.github.io/calculadora-imc/
+https://emilymartinsz.github.io/calculadora-imc/
 
 ## Objetivo
 
